@@ -165,6 +165,7 @@ Note: C can be a difficult-to-teach language. Although the online courses and bo
 - **Interactive tutorials:**
     - [Learn-C][c-learn-c]
       An interactive online guide that teaches you basic C step-by-step.
+    - [codeforhunger][code-for-hunger] here you can learn C programming from basics to advance with lot of examples and their solutions.  
 - **Books and tutorials (online):**
    -  [Learn C The Hard Way][c-lcthw]
       Part of the "Learn X the Hard Way" series. Assumes you have prior programming experience. Currently incomplete, in progress.
@@ -185,6 +186,7 @@ A very well-maintained list of recommended books and resources on StackOverflow.
   [c-mit-effective]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/
 
   [c-learn-c]: http://learn-c.org
+  [code-for-hunger]: https://codeforhunger.com
   [c-lcthw]: http://c.learncodethehardway.org/book/
   [c-lisp]: http://www.buildyourownlisp.com/
   [c-c-programming]: http://en.wikibooks.org/wiki/C_Programming

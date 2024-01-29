@@ -507,6 +507,8 @@ Java is a programming language designed to build secure, powerful applications t
 - **Interactive tutorials:**
     - [Learn Java][java-learn-online]
       An interactive tutorial that teaches basic Java.
+    - [Java Examples][Java-Hunger]
+      Learn Java with examples and interview questions.   
 - **Video tutorials:** N/A
 - **Books and tutorials (online):**
     - [Introduction to Computer Science using Java][java-intro-cs]
@@ -541,6 +543,7 @@ Java is a programming language designed to build secure, powerful applications t
   [java-helsinki-2]: http://mooc.fi/courses/2013/programming-part-2/
 
   [java-learn-online]: http://www.learnjavaonline.org/
+  [Java-Hunger]: https://codeforhunger.blogspot.com
 
   [java-doing]: http://programmingbydoing.com/
   [java-think]: http://greenteapress.com/thinkapjava/
